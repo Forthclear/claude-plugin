@@ -1,0 +1,14 @@
+{
+  "name": "forthclear",
+  "description": "ForthClear's B2B liquidation marketplace for Claude: search surplus inventory, request bulk quotes, and manage seller listings.",
+  "owner": {
+    "name": "ForthClear",
+    "email": "support@forthclear.io"
+  },
+  "plugins": [
+    {
+      "name": "forthclear",
+      "source": "./"
+    }
+  ]
+}

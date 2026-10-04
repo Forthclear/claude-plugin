@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "forthclear": {
+      "type": "http",
+      "url": "https://app.forthclear.io/mcp",
+      "headers": {
+        "X-MCP-API-Key": "${user_config.api_key}"
+      }
+    }
+  }
+}
