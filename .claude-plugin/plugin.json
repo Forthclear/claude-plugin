@@ -1,7 +1,6 @@
 {
   "name": "forthclear",
-  "displayName": "ForthClear Liquidation Marketplace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search surplus and overstock liquidation inventory, request bulk quotes, and check out — or, as a seller, list pallets and answer quotes — through ForthClear's hosted MCP server.",
   "author": {
     "name": "ForthClear",
@@ -13,10 +12,6 @@
   "license": "MIT",
   "keywords": ["liquidation", "wholesale", "surplus", "overstock", "b2b", "marketplace", "ecommerce"],
   "icon": "./logo.png",
-  "documentationUrl": "https://app.forthclear.io/api/mcp/schema.json",
-  "supportUrl": "https://forthclear.io/contact",
-  "privacyPolicyUrl": "https://forthclear.io/privacy",
-  "termsOfServiceUrl": "https://forthclear.io/terms",
   "userConfig": {
     "api_key": {
       "type": "string",
