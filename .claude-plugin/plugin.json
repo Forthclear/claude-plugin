@@ -12,6 +12,8 @@
   "license": "MIT",
   "keywords": ["liquidation", "wholesale", "surplus", "overstock", "b2b", "marketplace", "ecommerce"],
   "icon": "./logo.png",
+  "supportUrl": "https://forthclear.io/contact",
+  "privacyPolicyUrl": "https://forthclear.io/privacy",
   "userConfig": {
     "api_key": {
       "type": "string",
